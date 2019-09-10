@@ -1,9 +1,10 @@
-# My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+# Lab 2 - Git / GitHub / Contribution
+
+Hi everyone! This week we  learned about GitHub, something very important and useful today. It is a great way to collaboratively work on code and easy open source sharing. In my video, I explained what a pull request was and how to make one. 
+
+A pull request is used when you want to make changes to the project. When you send one, it sends the changes you want to be made to the master, who then will decide if he/she wants to decline it, or accept and merge it into the main repository. This is a great way to fearlessly experiment with code and is becoming more and more popular. This was my first time using GitHub and is something I know will benefit me in the future. 
+
+
+*Screencast submission* - [GitHub - Pull Requests](https://www.youtube.com/watch?v=K6rwdzX6Tgk)
 
 Good luck!
