@@ -7,4 +7,3 @@ A pull request is used when you want to make changes to the project. When you se
 
 *Screencast submission* - [GitHub - Pull Requests](https://www.youtube.com/watch?v=K6rwdzX6Tgk)
 
-Good luck!
