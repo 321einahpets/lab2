@@ -18,20 +18,20 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+Git is a command line version control system
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. Collaboration
+2. Constructive criticism on code
+3. Easy to use
 
 ## What is a Pull Request?
-
+You submit your changes and make comments about it to your team.
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- Add a resource link here
-- Add another resource link here
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc
+- https://guides.github.com/activities/hello-world/
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+![shaq](https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif).
